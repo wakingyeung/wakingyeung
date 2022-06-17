@@ -4,4 +4,4 @@
 
 Python | JS | React
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=wakingyeung&theme=dark&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=wakingyeung&theme=dark&show_icons=true)
